@@ -26,4 +26,4 @@
 - 🆚 VS Code
 - 💻 Visual Studio 2022
 
-⚡ Fun Fact: I love backend development!!! 🫶
+⚡ Fun Fact: I love backend development!!!

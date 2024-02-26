@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there! 👋
+About Me
+🎓 BS in Computer Science Fresh Grad
+💻 Fullstack Developer
+🔍 Passionate about Backend and APIs
+🚀 Hard worker, team player, and multitasker
+Tech Stacks
+Frontend
 
-<!--
-**ZanderNico/ZanderNico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚛️ React (React-Router, and Redux Toolkit)
+🎨 Tailwind, MaterialUI, Styled-Components
+Backend
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Express.js
+🦄 NestJS
+🔧 .NET Core EF
+📊 Databases: MySQL, MSQL, NoSQL: MongoDB
+Other Tools
+📬 Postman
+🐙 Github
+🆚 VS Code
+💻 Visual Studio 2022

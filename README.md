@@ -9,17 +9,9 @@
 
 #### Tech Stacks
 
-**Frontend**
-- ⚛️ React (React-Router, and Redux Toolkit)
-- 💼 Typescript
-- 🎨 Tailwind, MaterialUI, Styled-Components
-- 🌐 REST API
+**Frontend:** ⚛️ React (React-Router, and Redux Toolkit) 💼 Typescript 🎨 Tailwind, MaterialUI, Styled-Components 🌐 REST API
 
-**Backend**
-- 🚀 Express.js
-- 🦄 NestJS 
-- 🔧 .NET Core EF 
-- 📊 Databases: MySQL, MSSQL, NoSQL: MongoDB 
+**Backend:** 🚀 Express.js 🦄 NestJS 🔧 .NET Core EF 📊 Databases: MySQL, MSSQL, NoSQL: MongoDB 
 
 #### Other Tools
 

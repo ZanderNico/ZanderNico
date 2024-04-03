@@ -11,7 +11,7 @@
 **Frontend:**
 - ⚛️ React (React-Router, and Redux Toolkit)
 - 💼 Typescript
-- 🎨 Tailwind, MaterialUI, Styled-Components
+- 🎨 Tailwind, MaterialUI, Styled-Components, Bootstrap
 - 🌐 REST API
 
 **Backend:**

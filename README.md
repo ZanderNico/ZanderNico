@@ -18,10 +18,14 @@
 - 🚀 Express.js
 - 🦄 NestJS 
 - 🔧 .NET Core EF 
-- 📊 Databases: MySQL, MSSQL, NoSQL: MongoDB 
+- 📊 Databases: MySQL, MSSQL, NoSQL: MongoDB
+
+**FullStack:**
+- ⚛️ MERN (MongoDborMySQL/Express/React/Node)
+- 🔧 .NET MVC
 
 #### Other Tools
 
 📬 Postman, 🐙 Github, 🆚 VS Code, 💻 Visual Studio 2022
 
-⚡ Fun Fact: I love backend development!!!
+⚡ Fun Fact: I love web development!!!

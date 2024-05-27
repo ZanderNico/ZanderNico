@@ -10,7 +10,7 @@
 
 **Frontend:**
 - ⚛️ React (React-Router, and Redux Toolkit)
-- 💼 Typescript
+- 💼 Typescript and Javascript
 - 🎨 Tailwind, MaterialUI, Styled-Components, Bootstrap
 
 **Backend:**

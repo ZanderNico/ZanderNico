@@ -12,13 +12,13 @@
 - ⚛️ React (React-Router, and Redux Toolkit)
 - 💼 Typescript
 - 🎨 Tailwind, MaterialUI, Styled-Components, Bootstrap
-- 🌐 REST API
 
 **Backend:**
 - 🚀 Express.js
 - 🦄 NestJS 
 - 🔧 .NET Core EF 
 - 📊 Databases: MySQL, MSSQL, NoSQL: MongoDB
+- 🌐 REST API
 
 **FullStack:**
 - ⚛️ MERN (MongoDborMySQL/Express/React/Node)
